@@ -1,0 +1,15 @@
+在JLINK的command下依次运行如下命令  
+
+Exec SetSN=20281318      ;添加SN 
+Exec AddFeature GDB      ;添加GDB 
+Exec AddFeature RDI      ;添加RDI 
+Exec AddFeature FlashBP  ;添加FlashBP  
+Exec AddFeature FlashDL  ;添加FlashDL 
+Exec AddFeature JFlash   ;添加JFlash 
+
+- Exec SetSN=20281318    V9.2
+- Exec SetSN=20381318    V9.3
+- Exec SetSN=20481318    V9.4
+- Exec SetSN=20581318    V9.5
+- Exec SetSN=20681318    V9.6
+- Exec SetSN=20781318    V9.7
