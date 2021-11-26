@@ -1,0 +1,4 @@
+hardware/JLinkV9-nano/*
+!hardware/JLinkV9-nano/*.PrjPcb
+!hardware/JLinkV9-nano/*.SchDoc
+!hardware/JLinkV9-nano/*.PcbDoc
