@@ -2,3 +2,7 @@ hardware/JLinkV9-nano/*
 !hardware/JLinkV9-nano/*.PrjPcb
 !hardware/JLinkV9-nano/*.SchDoc
 !hardware/JLinkV9-nano/*.PcbDoc
+hardware/JLinkV9-mini/*
+!hardware/JLinkV9-mini/*.kicad_pcb
+!hardware/JLinkV9-mini/*.kicad_pro
+!hardware/JLinkV9-mini/*.kicad_sch
