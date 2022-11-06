@@ -6,3 +6,4 @@ hardware/JLinkV9-mini/*
 !hardware/JLinkV9-mini/*.kicad_pcb
 !hardware/JLinkV9-mini/*.kicad_pro
 !hardware/JLinkV9-mini/*.kicad_sch
+!hardware/JLinkV9-mini/gerbers
